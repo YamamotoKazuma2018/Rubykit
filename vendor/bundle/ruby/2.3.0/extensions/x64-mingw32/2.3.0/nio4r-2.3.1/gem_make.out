@@ -1,0 +1,14 @@
+current directory: C:/Rails5/rubykit/vendor/bundle/ruby/2.3.0/gems/nio4r-2.3.1/ext/nio4r
+C:/Ruby23/bin/ruby.exe -r ./siteconf20181004-9140-13sss7m.rb extconf.rb
+
+current directory: C:/Rails5/rubykit/vendor/bundle/ruby/2.3.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: C:/Rails5/rubykit/vendor/bundle/ruby/2.3.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: C:/Rails5/rubykit/vendor/bundle/ruby/2.3.0/gems/nio4r-2.3.1/ext/nio4r
+make "DESTDIR=" install
+make: Nothing to be done for `install'.
